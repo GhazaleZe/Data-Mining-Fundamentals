@@ -8,3 +8,7 @@
 ## HW5 main topics: 
 - Neural Network(MLPClassifier) (Q1)
 - Clustering (Q2,Q3)
+## HW6 main topics: 
+- Linear Regression (Q1, Q2)
+- PCA (Q3)
+- Association Rule (Q4)
