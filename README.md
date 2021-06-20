@@ -11,4 +11,9 @@
 ## HW6 main topics: 
 - Linear Regression (Q1, Q2)
 - PCA (Q3)
-- Association Rule (Q4)
+- Association Rule (Q4) 
+## HW7 main topics: 
+- Logistic Regression (Q1)
+- Poisson Regression (Q2)
+- Sequence Pattern Mining (Q3)
+- Advanced Association Rule Mining (Q4)
