@@ -1,5 +1,5 @@
 # Data Mining Fundamentals
- my codes for data mining fundamentals course 
+ The codes of my data mining fundamentals course 
 ## HW1 main topics:
 - Start working with pandas and numpy (Q3) 
 ## HW2 main topics: 
