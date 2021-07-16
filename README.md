@@ -1,5 +1,19 @@
 # Data Mining Fundamentals
  my codes for data mining fundamentals course 
+## HW1 main topics:
+- Start working with pandas and numpy (Q3) 
+## HW2 main topics: 
+- Preprocessing (Q1)
+- Missing Data (Q2, Q3)
+- Normalize and Standardization (Q4)
+- Outliers (Q5)
+- Binnig (Q6)
+## HW3 main topics: 
+- Summary and visualization (Q1)
+- Correlation (Q2)
+- Contingency Table (Q3)
+- Test and Train (Q4)
+- DecisionTreeClassifier with criterion='gini' (Q5)
 ## HW4 main topics: 
 - DecisionTreeClassifier with criterion='entropy' (Q1)
 - RandomForestClassifier (Q2)
